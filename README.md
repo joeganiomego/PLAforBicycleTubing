@@ -1,5 +1,5 @@
 # PLAforBicycleTubing
-PLA for Bicycle Tubing Feasability Study, FreeCAD FEM Analysis
+PLA for Bicycle Tubing Feasibility Study, FreeCAD FEM Analysis
 
 
 WORK IN PROGRESS
